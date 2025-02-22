@@ -348,5 +348,10 @@
         "alias": "JungleTV application: Bingo",
         "owner": "QRV",
         "lore": "Wallet to distribute mini Banano rewards for users participating in Bingo on JungleTV."
+    },
+    {
+        "address": "ban_3iuhae1nq4e1k4r59h4h3p16x5m5c7czmuetm81xmkjeqensxyk3irocz9yy",
+        "alias": "IamFaucet",
+        "owner": "IamGabriel"
     }
 ]
